@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1482772313 source:/home/svponomarev/Documents/code/thesis/PT_estimation/projective_main.cpp
+	<iostream>
+	"methods.h"
+	"utils.h"
+
+1482604853 source:/home/svponomarev/Documents/code/thesis/PT_estimation/levmarq.c
+	<stdio.h>
+	<math.h>
+	"levmarq.h"
+
+1482613637 /home/svponomarev/Documents/code/thesis/PT_estimation/levmarq.h
+
+1482758131 source:/home/svponomarev/Documents/code/thesis/PT_estimation/levmarq.cpp
+	<stdio.h>
+	<math.h>
+	"levmarq.h"
+
+1482611302 source:/home/svponomarev/Documents/code/thesis/PT_estimation/minpack.cpp
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<iostream>
+	"minpack.hpp"
+
+1482611518 /home/svponomarev/Documents/code/thesis/PT_estimation/minpack.hpp
+	<cstdlib>
+	<iostream>
+
+1482772669 source:/home/svponomarev/Documents/code/thesis/PT_estimation/methods.cpp
+	"methods.h"
+	"utils.h"
+	"levmarq.h"
+	<ctime>
+
+1482764977 /home/svponomarev/Documents/code/thesis/PT_estimation/methods.h
+	<opencv2/opencv.hpp>
+
+1482772332 /home/svponomarev/Documents/code/thesis/PT_estimation/utils.h
+	<opencv2/opencv.hpp>
+
+1482772340 source:/home/svponomarev/Documents/code/thesis/PT_estimation/utils.cpp
+	"utils.h"
+	<iomanip>
+
